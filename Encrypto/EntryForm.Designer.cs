@@ -1,6 +1,6 @@
 ﻿namespace Encrypto
 {
-    partial class Form1
+    partial class EntryForm
     {
         /// <summary>
         /// Required designer variable.
@@ -63,7 +63,7 @@
             this.btn_digital_sig.UseVisualStyleBackColor = true;
             this.btn_digital_sig.Visible = false;
             // 
-            // Form1
+            // EntryForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -71,8 +71,8 @@
             this.Controls.Add(this.btn_digital_sig);
             this.Controls.Add(this.btn_key_pair_gen);
             this.Controls.Add(this.btn_encrypt);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "EntryForm";
+            this.Text = "Choose an action";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
