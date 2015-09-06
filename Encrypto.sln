@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encrypto", "Encrypto\Encrypto.csproj", "{BDBEF8DA-9C98-457D-B9AE-E2CA02A14782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypto", "Crypto\Crypto.csproj", "{179115B4-7AD8-4CAF-B84C-042D82332D3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDBEF8DA-9C98-457D-B9AE-E2CA02A14782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBEF8DA-9C98-457D-B9AE-E2CA02A14782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBEF8DA-9C98-457D-B9AE-E2CA02A14782}.Debug|x64.ActiveCfg = Debug|x64
+		{BDBEF8DA-9C98-457D-B9AE-E2CA02A14782}.Debug|x64.Build.0 = Debug|x64
+		{BDBEF8DA-9C98-457D-B9AE-E2CA02A14782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBEF8DA-9C98-457D-B9AE-E2CA02A14782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDBEF8DA-9C98-457D-B9AE-E2CA02A14782}.Release|x64.ActiveCfg = Release|x64
+		{BDBEF8DA-9C98-457D-B9AE-E2CA02A14782}.Release|x64.Build.0 = Release|x64
+		{179115B4-7AD8-4CAF-B84C-042D82332D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179115B4-7AD8-4CAF-B84C-042D82332D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179115B4-7AD8-4CAF-B84C-042D82332D3B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{179115B4-7AD8-4CAF-B84C-042D82332D3B}.Debug|x64.Build.0 = Debug|Any CPU
+		{179115B4-7AD8-4CAF-B84C-042D82332D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179115B4-7AD8-4CAF-B84C-042D82332D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{179115B4-7AD8-4CAF-B84C-042D82332D3B}.Release|x64.ActiveCfg = Release|Any CPU
+		{179115B4-7AD8-4CAF-B84C-042D82332D3B}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
